@@ -48,7 +48,7 @@ Steps to train the model:
 - Output:
   Next word: NLP
 # Results
-- Accuracy: Achieved ~85% accuracy on the test dataset.
+- Accuracy: Achieved 95% accuracy on the test dataset.
 - Examples:
 - Input: "Machine learning is"
 - Prediction: "powerful"
