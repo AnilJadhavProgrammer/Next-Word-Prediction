@@ -76,20 +76,21 @@ python next_word_predictor.py --input "I am learning"
 - Deploying the model as a web-based application.
 # How to Run
 
-Clone the repository:
+- Clone the repository:
 
 git clone https://github.com/AnilJadhavProgrammer/next-word-prediction.git
 
-Install dependencies:
+- Install dependencies:
 
 pip install -r requirements.txt
 
-Train the model:
+- Train the model:
 
 python train_model.py
 
-Run the prediction script:
+- Run the prediction script:
 python next_word_predictor.py --input "Your input text here"
+
 # Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
