@@ -39,7 +39,7 @@ Steps to train the model:
 - Define the model architecture using Keras/TensorFlow.
 - Compile the model with appropriate loss function and optimizer.
 - Train the model on the preprocessed dataset.
-Example:
+- Example:
   model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
   model.fit(X_train, y_train, validation_data=(X_val, y_val), epochs=10, batch_size=64)
 # Usage
